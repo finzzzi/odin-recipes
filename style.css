@@ -17,3 +17,21 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+ul.recipe-list li {
+    display: inline-block;
+}
+
+ul.recipe-list li a {
+    background-color: rgb(127, 255, 212);
+    padding: 16px;
+    margin: 8px;
+}
+
+ul.recipe-list li a:hover {
+    background-color: rgb(82, 226, 178);
+}
+
+.home-list {
+    text-align: center;
+}
