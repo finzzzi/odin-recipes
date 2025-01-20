@@ -18,6 +18,11 @@ body {
     margin-right: auto;
 }
 
+ul.recipe-list {
+    padding: 0px;
+    margin: 0px;
+}
+
 ul.recipe-list li {
     display: inline-block;
 }
